@@ -1,0 +1,38 @@
+        html {
+            background-color: blue;
+            color: red;
+        }
+        
+        h1 {
+            font-size: 500%;
+        }
+        
+        h1,
+        h3 {
+            text-align: center;
+        }
+        
+        p {
+            text-align: center;
+            font-size: 250%;
+            margin: auto;
+        }
+        
+        a,
+        ul {
+            color: red;
+            text-align: center;
+            width: 100%;
+            margin: auto;
+        }
+        
+        #principal {
+            width: 20%;
+            border-radius: 10px;
+            border-color: white;
+            border-style: 2px;
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+            text-align: center;
+        }
